@@ -19,18 +19,16 @@ function LocationSection() {
                   rel="noreferrer"
                   style={{ color: '#828282' }}
                 >
-                  <strong>Baleendah, Bandung</strong>
+                  <strong>Jatiasih, Kota Bekasi</strong>
                 </a>{' '}
                 <br />
-                Jl. Laswi Cangkring RT/RW 05/07
-                kel. Jelekong, kec. Baleendah, kab. Bandung
+                Graha Lestari, RT.006/RW.005, Jatirasa, Jatiasih, Bekasi, West Java 17147
               </p>
             </div>
           </div>
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
-              <iframe
-                src="https://maps.google.com/maps?q=Klinik%20Bintari%20Medika&t=&z=13&ie=UTF8&iwloc=&output=embed"
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.871958754813!2d106.97197057499089!3d-6.280558893708293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698d9bcb4837cb%3A0xebb20753b7705b6e!2sGedung%20Graha%20Lestari!5e0!3m2!1sen!2sid!4v1733241275421!5m2!1sen!2sid" 
                 width="100%"
                 height="450"
                 frameBorder="0"

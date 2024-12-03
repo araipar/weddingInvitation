@@ -9,11 +9,11 @@ function FooterSection({ isInvitation }) {
           <div className="row copyright">
             <div className="col-md-12 text-center">
               <p>
-                <small className="block">&copy; 2022 Created by Rai with lots of 🤎 for Jess.</small>
+                <small className="block">&copy; 2024 Created by Rai with lots of 🤎 for Jess.</small>
                 <small className="block">
                   Song by{' '}
-                  <a href="https://www.youtube.com/watch?v=fb167KAxvrg" target="_blank" rel="noreferrer">
-                    Anandito Anisa - Pernikahan Impian
+                  <a href="https://www.youtube.com/watch?v=yQORL_z-UsA" target="_blank" rel="noreferrer">
+                    Travis Scott - sdp interlude (Extended)
                   </a>
                 </small>
                 <small className="block">
