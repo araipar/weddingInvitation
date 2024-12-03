@@ -1,6 +1,6 @@
-# Arin & Miftah Wedding Website
+# Jess & Rai Wedding Website
 
-![Arin Miftah Wedding](https://github.com/Miftahussalam/wedding/blob/master/src/assets/thumbnail.png?raw=true)
+![Jess Rai Wedding](https://github.com/Miftahussalam/wedding/blob/master/src/assets/thumbnail.png?raw=true)
 
 Features:
 - Landing Page, with features like:

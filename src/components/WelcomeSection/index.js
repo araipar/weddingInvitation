@@ -46,7 +46,7 @@ function WelcomeSection({ location, guestName, isInvitation, isAnonymGuest, code
   };
 
   const renderGuestSection = () => {
-    if (isAnonymGuest) return <h2 className="to-dearest-name">Dear Friends,</h2>;
+    if (isAnonymGuest) return <h2 className="to-dearest-name">Dear Friends / Family</h2>;
 
     return (
       <Fragment>
@@ -71,7 +71,7 @@ function WelcomeSection({ location, guestName, isInvitation, isAnonymGuest, code
             <div className="col-md-8 col-md-offset-2 text-center">
               <img src={WeddingImg} alt="wedding-arin-miftah" />
               <h4 className="sub-title">The Wedding of</h4>
-              <h1 className="title">Arin &amp; Miftah</h1>
+              <h1 className="title">Jess &amp; Rai</h1>
               <div className={isAnonymGuest ? 'margin__bottom' : ''}>
                 <CountContainer />
               </div>

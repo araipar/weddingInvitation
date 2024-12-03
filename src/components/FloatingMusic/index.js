@@ -1,7 +1,7 @@
 import React, { Fragment, useState } from 'react';
 import IconMusic from '@assets/images/music-icon.png';
 import IconMusicStop from '@assets/images/music-stop-icon.png';
-import MusicBacksound from '@assets/music/lagu-pernikahan-impian.mp3';
+import MusicBacksound from '@assets/music/lagu-pernikahan-impian2.mp3';
 
 import { styMusicFloating } from './styles';
 
@@ -14,6 +14,7 @@ function FloatingMusic() {
      * This function built-in with html5 function
      * doc: https://www.w3schools.com/tags/ref_av_dom.asp
      */
+    myAudio.play();
     if (play) {
       myAudio.pause();
     } else {

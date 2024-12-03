@@ -13,24 +13,24 @@ function WeddingSection({ isInvitation }) {
         <div className="container">
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
-              <span className="bismillah">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</span>
-              <h2 className="main-font main-font__wedding">Akad Nikah dan Syukuran Pernikahan</h2>
-              <span className="sub-title sub-title__wedding">Insha Allah akan diselenggarakan pada:</span>
+              {/* <span className="bismillah">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</span> */}
+              <h2 className="main-font main-font__wedding">Holy Matrimony and Wedding Reception</h2>
+              <span className="sub-title sub-title__wedding">Will be held at :</span>
             </div>
           </div>
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
             <WeddingInfoBox
-                title="Akad Nikah"
-                time="08.00 WIB"
-                date="Minggu, 11 September 2022"
-                description="Jl. Laswi Cangkring RT/RW 05/07 kel. Jelekong, kec. Baleendah, kab. Bandung"
+                title="Holy Matrimony"
+                time="7am , Western Indonesia Time"
+                date="Saturday, February 1st"
+                description="HKBP Bojong Menteng, Jl. Kemuning Raya III No.119, RT.003/RW.005, Bojong Menteng, Kec. Rawalumbu, Kota Bks, Jawa Barat 17117"
             />
             <WeddingInfoBox
-              title="Syukuran Pernikahan"
-              time="11.00 s/d 15.00 WIB"
-              date="Minggu, 11 September 2022"
-              description="Jl. Laswi Cangkring RT/RW 05/07 kel. Jelekong, kec. Baleendah, kab. Bandung"
+              title="Wedding Reception"
+              time="11 am - 3 pm , Western Indonesia Time "
+              date="Saturday, February 1st"
+              description="Graha Lestari, RT.006/RW.005, Jatirasa, Jatiasih, Bekasi, West Java 17147"
             />
             </div>
           </div>

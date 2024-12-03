@@ -43,14 +43,14 @@ export const wishlist = [
   },
   {
     name: 'Zalfa ',
-    infoName: 'Teman kuliah Arin di Himi',
+    infoName: 'Teman kuliah Jess di Himi',
     description: `"Maa syaa Allah, Baarakallah bebb. Mudah2an dikasih kelancaran gaa sampai hati H nantiiii🤩🤩💖
     Sehat sehat calon pengantin🤍"`,
     image: default_image,
   },
   {
     name: 'Monkey D Luffy',
-    infoName: 'Temen Muallimien Arin ',
+    infoName: 'Temen Muallimien Jess ',
     description: `"Baarakallahulaka Wabaaraka A'laika Wajamaa' bainakuma fii khair🤩"`,
     image: luffy,
   },
@@ -63,12 +63,12 @@ export const wishlist = [
   {
     name: 'Dian Kurniawan ',
     infoName: 'Teman sekaligus sodara miftah',
-    description: `"selamat menempuh hidup baru buat sodaraku miftah dan Arin semoga menjadi keluarga yang sakinah,mawadah,warahmah ,semoga selalu dlm ridho Allah SWT dan di limpahi keberkahan ny serta selalu di mudahkan urusanny dalam langkah2 berikutny 🤲🤲😇"`,
+    description: `"selamat menempuh hidup baru buat sodaraku miftah dan Jess semoga menjadi keluarga yang sakinah,mawadah,warahmah ,semoga selalu dlm ridho Allah SWT dan di limpahi keberkahan ny serta selalu di mudahkan urusanny dalam langkah2 berikutny 🤲🤲😇"`,
     image: dian,
   },
   {
     name: 'Desih Bieber',
-    infoName: 'Temen NgeJournal Miftah',
+    infoName: 'Temen NgeJournal Rai',
     description: `"Ihiiiiw alhamdulillaah akhirnya miftah sold out juga, ga jadi ceng2an lagi digroup 🤣
     semoga sakinah mawaddah warohmah yaa, miftah dan calon istri. dipasihan kalancaran kanggo sadayana, sehat2 calon manten..
     yuyur insyekyuuur banget liat temen2 miftah sama arin ini 😫"`,
@@ -76,32 +76,32 @@ export const wishlist = [
   },
   {
     name: 'Jengsil',
-    infoName: 'Temen ngOdoo-nya Miftah',
-    description: `"Barakallah Mifs & Arin. Alhamdulillah undangan yg ditunggu tunggu akhirnya datang, sold out semua temen seperjuangan Odoo 😆. Semoga lancar acaranya menjadi keluarga yang Sakinah mawaddah warahmah saling memiliki saling melengkapi uwu 😙. Gas keun mifs abi tos 2 yeuh !! 🤣"`,
+    infoName: 'Temen ngOdoo-nya Rai',
+    description: `"Barakallah Mifs & Jess. Alhamdulillah undangan yg ditunggu tunggu akhirnya datang, sold out semua temen seperjuangan Odoo 😆. Semoga lancar acaranya menjadi keluarga yang Sakinah mawaddah warahmah saling memiliki saling melengkapi uwu 😙. Gas keun mifs abi tos 2 yeuh !! 🤣"`,
     image: ajeng,
   },
   {
     name: 'Teh neng dia',
     infoName: 'Sodaranya miftah',
-    description: `"Barrkallah sodaraku de mimif sama de Arin, semoga menjadi keluarga yang sakinah mawadah warahmah, lancar sampai hari-H nya, AminYaAllahAmin 🤲🏻"`,
+    description: `"Barrkallah sodaraku de mimif sama de Jess, semoga menjadi keluarga yang sakinah mawadah warahmah, lancar sampai hari-H nya, AminYaAllahAmin 🤲🏻"`,
     image: default_image,
   },
   {
     name: 'Rose Blackpink (Ai Lusi)',
-    infoName: 'Adik kesayangan a Miftah meureun😂',
+    infoName: 'Adik kesayangan a Rai meureun😂',
     description: `"Selamat melepas masa lajang mass bro semoga lancar sampai hari H, aduhh jadi sedihhh ieu tehh😅yang tadinya kemana-mana sama adiknya sekarang mah udah ada pawangnya🤭"`,
     image: lusi,
   },
   {
     name: 'Bayu Dwi R.',
-    infoName: 'Teman Seperjuangan Miftah saat Ekstensi S1',
-    description: `"Barakallah bro Miftah dan Arin.
+    infoName: 'Teman Seperjuangan Rai saat Ekstensi S1',
+    description: `"Barakallah bro Rai dan Jess.
     Semoga pernikahannya senantiasa diberkahi oleh Allah swt. dan menjadi keluarga yang Sakinah, Mawaddah, Warrahmah.. Aamiin ya Allah"`,
     image: default_image,
   },
   {
     name: 'M. Fahmi Munadi',
-    infoName: 'Teman SMA Arin',
+    infoName: 'Teman SMA Jess',
     description: `"Bismillah..
     Tidak ada doa yang paling diharapkan kecuali sakinah, mawadah, warahmah. (Itulah doa saya untuk kalian)
 
@@ -116,8 +116,8 @@ export const wishlist = [
   },
   {
     name: 'Rini Nur Arifah',
-    infoName: 'Temam MTS Miftah',
-    description: `"Miftah....
+    infoName: 'Temam MTS Rai',
+    description: `"Rai....
     Mudah mudahan pernikahannya langgeng sehidup seSyurga ya..Aamiin ya Alloh..."`,
     image: default_image,
   },
@@ -135,13 +135,13 @@ export const wishlist = [
   },
   {
     name: 'Nia Saidah',
-    infoName: 'Teman MTS dan SMA Miftah',
-    description: `"Selamat menempuh hidup baru  sahabatku Miftah dan teh Arin , 'Barakallahu lakum wa baraka alaikum' (mudah-mudahan Allah memberi kalian keberkahan dan melimpahkan atas kalian keberkahan)." 🤗🤲"`,
+    infoName: 'Teman MTS dan SMA Rai',
+    description: `"Selamat menempuh hidup baru  sahabatku Rai dan teh Jess , 'Barakallahu lakum wa baraka alaikum' (mudah-mudahan Allah memberi kalian keberkahan dan melimpahkan atas kalian keberkahan)." 🤗🤲"`,
     image: nia,
   },
   {
     name: 'Neni ',
-    infoName: 'Temen MTS Miftah',
+    infoName: 'Temen MTS Rai',
     description: `"Barokallahulaka wabaroka 'alaika wajama'a baina kuma fikhoir... Alhamdulillah akhirnya mif menemukan teman seperjuangan buat ibadah terpanjang, mengikat perjanjian terberat dengan Allah swt, semoga dalam perjuangannya menjadi keluarga yg sakinah, mawadah, warohmah, sampai janah, serta cepat2 dikaruniai anak2 yang soleh solehah... aamiin
     Maaf belum bisa ikut menghadiri acara pernikahannya, hanya bisa mendo'akan semoga lancar segalanya sampai hari H, sehat-sehat semuanya... aamiin"`,
     image: default_image,
@@ -149,7 +149,7 @@ export const wishlist = [
   {
     name: 'Nana Gercep',
     infoName: 'Temen nge reog arin',
-    description: `"Arin sobi boyot aku, sobi reog, sobi gemoy, sobi cuwat ciwit. Barakallah ya rin, akhirnya sampe juga di titik ini, arin bahagia terus, happy terus, Allah tau hati kmu dan Allah lebih tau mana yang terbaik. Aku bangga banget sama kamu bisa melewati banyak hal, jangan sedih2 rin. Ya Allah aku titipkan sahabat aku yang pernah menghafal kalam-Mu bersamaan dengan ku, aku titipkan semoga selalu dalam penjagaan-Mu dan kasih sayang-Mu, Rahmati dia dan keluarganya, Ridhai perjalanan nya. Semoga Allah selalu balas kebaikan arin dengan kebahagian berlimpah dalam setiap hembusan nafas kamu rin, Arin mari bertetangga di syurga🤍🤍🤍🤍 A miftah Bawa arin ke syurga ya"`,
+    description: `"Jess sobi boyot aku, sobi reog, sobi gemoy, sobi cuwat ciwit. Barakallah ya rin, akhirnya sampe juga di titik ini, arin bahagia terus, happy terus, Allah tau hati kmu dan Allah lebih tau mana yang terbaik. Aku bangga banget sama kamu bisa melewati banyak hal, jangan sedih2 rin. Ya Allah aku titipkan sahabat aku yang pernah menghafal kalam-Mu bersamaan dengan ku, aku titipkan semoga selalu dalam penjagaan-Mu dan kasih sayang-Mu, Rahmati dia dan keluarganya, Ridhai perjalanan nya. Semoga Allah selalu balas kebaikan arin dengan kebahagian berlimpah dalam setiap hembusan nafas kamu rin, Jess mari bertetangga di syurga🤍🤍🤍🤍 A miftah Bawa arin ke syurga ya"`,
     image: hasna,
   },
   {
@@ -181,13 +181,13 @@ export const wishlist = [
   },
   {
     name: 'Rega & Nurul',
-    infoName: 'Teman Kuliah Miftah',
-    description: `"Alhamdulillah, selamat untuk Miftah & Arin semoga dilancarkan, dimudahkan dan dimuluskan jalan menuju hari H pernikahan serta hidup barunya, mudah-mudahan menjadi keluarga yang sakinah mawaddah warahmah. Aaamiiin... 🤲"`,
+    infoName: 'Teman Kuliah Rai',
+    description: `"Alhamdulillah, selamat untuk Rai & Jess semoga dilancarkan, dimudahkan dan dimuluskan jalan menuju hari H pernikahan serta hidup barunya, mudah-mudahan menjadi keluarga yang sakinah mawaddah warahmah. Aaamiiin... 🤲"`,
     image: rega,
   },
   {
     name: 'Wilfan Setiawan ',
-    infoName: 'Teman SMA Miftah ',
+    infoName: 'Teman SMA Rai ',
     description: `"Alhamdulillah ,ngiring bingah mif
 
     Selamat menempuh hidup baru kawan ,,semoga lancar semuanya sampai hari H ,dan semoga menjadi keluarga sakinah mawadah warrahmah ..amiin "`,
@@ -212,12 +212,12 @@ export const wishlist = [
   {
     name: 'MIRANTI JAUZAN ',
     infoName: 'TEMAN TEH ARIN DI MQR',
-    description: `"Aaaaa MasyaAllah tabarakAllah finally😍bahagia selalu teh Arin dan suami!! InsyaAllah selalu Allah jagaa aamiin. Sehat sehat yaaaa. Sending luv dari Riau, kapan kapan reuni MQR yaa hihiw see u tetehkuu!!🥰❤️❤️"`,
+    description: `"Aaaaa MasyaAllah tabarakAllah finally😍bahagia selalu teh Jess dan suami!! InsyaAllah selalu Allah jagaa aamiin. Sehat sehat yaaaa. Sending luv dari Riau, kapan kapan reuni MQR yaa hihiw see u tetehkuu!!🥰❤️❤️"`,
     image: miranti,
   },
   {
     name: 'Nur',
-    infoName: 'Teman kuliah + Himi Arin',
+    infoName: 'Teman kuliah + Himi Jess',
     description: `"Ceuu maa syaa Allah barakallah, sebentar lagi akan menempuh hidup baru yang lebih berwarna! Semoga senantiasa Allah beri banyak berkah dan kebahagiaan! Serta Allah mudahkan dan lancarkan yaa segalanya ❤️ sehat2 calon manten 🥰"`,
     image: default_image,
   },
