@@ -39,7 +39,7 @@ function LocationSection() {
                 title="Google Maps - Jess & Rai Wedding Party"
               ></iframe>
             </div>
-            <div className="row">
+            {/* <div className="row">
               <div className="col-md-10 col-md-offset-1">
                 <img
                   src={Peta}
@@ -56,7 +56,7 @@ function LocationSection() {
                   alt="peta-lokasi-cangkring"
                 ></img>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
