@@ -34,7 +34,7 @@ function ETicket({ location }) {
       }
 
       alert(`Maaf, Kode data ${guestCode} tidak ditemukan. Mohon di cek lagi..`);
-      window.location.assign('https://arin.miftahussalam.com/');
+      window.location.assign('https://araipar.github.io/');
     },
     [data, nameEticket, value],
   );
