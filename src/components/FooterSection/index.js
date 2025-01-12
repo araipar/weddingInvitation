@@ -12,8 +12,8 @@ function FooterSection({ isInvitation }) {
                 <small className="block">&copy; 2024 Created by Rai with lots of 🤎 for Jess.</small>
                 <small className="block">
                   Song by{' '}
-                  <a href="https://www.youtube.com/watch?v=yQORL_z-UsA" target="_blank" rel="noreferrer">
-                    Travis Scott - sdp interlude (Extended)
+                  <a href="https://youtu.be/bfDMPhKItvc?si=UtLuaWBYBqcfpb9s" target="_blank" rel="noreferrer">
+                    Billie Eilish - Birds Of Feather (Extended)
                   </a>
                 </small>
                 <small className="block">

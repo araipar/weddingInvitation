@@ -29,7 +29,7 @@ function HelloSection({ isInvitation }) {
 			  <div className="desc-groom">
 				<h3 className="main-font">Jessica</h3>
 				<p className="parent-name parent-name__top">
-				  Daughter of Mr L. Simanjuntak <br />& Mrs Batubara
+				  Daughter of Mr L. Simanjuntak <br />& Mrs D. Batubara
 				</p>
 			  </div>
 			</div>
@@ -46,7 +46,7 @@ function HelloSection({ isInvitation }) {
 			  <div className="desc-bride">
 				<h3 className="main-font">Rai Paramartha</h3>
 				<p className="parent-name">
-				Son of Mr I Nyoman Gede Artha <br />& Mrs Ovi Natalia Veronika
+				Son of Mr I Nyoman Gede Artha <br />& Mrs Ovi Natalia V
 				</p>
 			  </div>
 			</div>

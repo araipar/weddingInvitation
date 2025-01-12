@@ -1,7 +1,7 @@
 /**
  * Link
  */
-export const GOOGLE_CALENDAR_LINK = `https://calendar.app.google/swFB5Rskc1bUhrSf8`;
+export const GOOGLE_CALENDAR_LINK = `https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2lzNTUwaDhpbzJtNWR1ZnBvb3QzcjVsY3QgYXJhaXBhcnNAbQ&tmsrc=araipars%40gmail.com`;
 export const GOOGLE_MAPS_LINK = `https://maps.app.goo.gl/JdRaQeh3L1fo9HeU9`;
 
 /**

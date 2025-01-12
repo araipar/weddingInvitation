@@ -75,13 +75,13 @@ function WelcomeSection({ location, guestName, isInvitation, isAnonymGuest, code
               <div className={isAnonymGuest ? 'margin__bottom' : ''}>
                 <CountContainer />
               </div>
-              <div className="row" css={styButtonWrapper}>
+              {/* <div className="row" css={styButtonWrapper}>
                   <div className="col-md-3">
                     <a href={GOOGLE_CALENDAR_LINK} title="Add to My Calendar" target="_blank" rel="noreferrer">
                       <button className="btn btn-default btn-block">Add to Calendar</button>
                     </a>
                   </div>
-              </div>
+              </div> */}
               <br></br>
               {renderGuestSection()}
               {isInvitation && (
